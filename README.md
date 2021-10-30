@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Snifx5
-- 👀 I’m interested in blockchain, electromagnetic radiatin, antennas, RF systems.
-- 🌱 I’m currently learning .jb
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in blockchain, electromagnetic radiation, antennas, RF systems, wireless.
+- 🌱 I’m currently learning.
+- 💞️ I’m looking to collaborate on wireless, blockchain, ...
 - 📫 How to reach me ...
 
 <!---
